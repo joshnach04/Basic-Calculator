@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../COUNTDOWN"
+		},
+		{
+			"path": "../CALCULATOR"
+		},
+		{
+			"path": "../STOPWATCH"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
